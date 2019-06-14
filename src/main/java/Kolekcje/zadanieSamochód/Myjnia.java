@@ -8,6 +8,6 @@ public class Myjnia {
 private final Queue<Samochód> kolejkaSamochodów = new ArrayDeque<>();
 
 
-public void umyjWszystkieSamochody()
+//public void umyjWszystkieSamochody()
 
 }
